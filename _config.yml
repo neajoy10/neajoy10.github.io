@@ -18,19 +18,12 @@ repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#  
-             Additional customization can be done by editing /_includes/author-profile.html
-
-
-
-
-
-
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nea Schramm"
-  pronouns         : "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "I am a Data Scientist with a  passion for  statistics"
   location         : "Galesburg Il"
   employer         : "Knox college"
@@ -55,7 +48,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : @neajoy10
+  instagram        : "njschramm@knox.edu"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
